@@ -1,15 +1,18 @@
 #BlueJ package file
-objectbench.height=92
-objectbench.width=760
+dependency1.from=Main
+dependency1.to=Student
+dependency1.type=UsesDependency
+objectbench.height=93
+objectbench.width=762
 package.divider.horizontal=0.6
-package.divider.vertical=0.7991214057507987
+package.divider.vertical=0.7984919157492074
 package.editor.height=394
-package.editor.width=674
+package.editor.width=673
 package.editor.x=12
 package.editor.y=12
 package.frame.height=600
 package.frame.width=800
-package.numDependencies=0
+package.numDependencies=1
 package.numTargets=2
 package.showExtends=true
 package.showUses=true
