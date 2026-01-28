@@ -4,8 +4,8 @@ package Lesson3_PrintOdds;
 /**
  * Write a description of class Main here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Colin Hawley)
+ * @version (1/28/26)
  */
 public class Main
 {
@@ -14,11 +14,11 @@ public class Main
     {
         int[ ] values = {17, 34, 56, 2, 19, 100};
         
-        for (int i = 0; i < values.length; i++)
+        for (int value : values)
         {
-            if (values[i] % 2 == 1)
+            if (value % 2 == 1)
             {
-                System.out.println(values[i] + " is odd");
+                System.out.println(value + " is odd");
             }
         }
     }
