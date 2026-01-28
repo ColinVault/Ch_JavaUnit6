@@ -4,10 +4,11 @@ package Lesson3_AverageArray;
 /**
  * Write a description of class ArrayAverage here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Colin Hawley)
+ * @version (1/28/26)
  */
 public class ArrayAverage
 {
+    private int number;
     
 }
