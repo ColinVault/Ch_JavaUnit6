@@ -11,4 +11,8 @@ public class ArrayAverage
 {
     private int number;
     
+    public ArrayAverage(int number)
+    {
+        this.number = number;
+    }
 }
